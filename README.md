@@ -35,30 +35,6 @@ GitHub Repository → CodePipeline → Elastic Beanstalk → Live ML App
 
 ---
 
-## 🗂 Project Structure
-
-ML-Projects/
-├── data/
-│ └── student.csv
-├── src/
-│ ├── components/
-│ │ ├── data_ingestion.py
-│ │ ├── data_transformation.py
-│ │ ├── model_trainer.py
-│ ├── pipeline/
-│ │ ├── training_pipeline.py
-│ │ └── prediction_pipeline.py
-│ ├── utils.py
-│ ├── exception.py
-│ └── logger.py
-├── templates/
-│ └── index.html
-├── application.py
-├── requirements.txt
-└── README.md
-
-
----
 
 ## 🤖 ML Pipeline Workflow
 
